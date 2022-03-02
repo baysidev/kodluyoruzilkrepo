@@ -1,3 +1,4 @@
+![readmeimg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3gMxshNfG8GUU-rWOTomNX9KJkAo1PYTWiw&usqp=CAU)
 # Kodluyoruz Ilk Repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
